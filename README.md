@@ -1,2 +1,2 @@
 # firstPortfolio
- Informações sobre dev
+ Portifólio criado de modo card-crachá.
